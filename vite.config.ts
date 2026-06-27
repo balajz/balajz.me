@@ -131,6 +131,8 @@ export default defineConfig({
             'VueUse': 'https://github.com/vueuse/vueuse',
             'UnoCSS': 'https://github.com/unocss/unocss',
             'Elk': 'https://github.com/elk-zone/elk',
+            'meine': { link: 'https://github.com/balajz/meine', imageUrl: 'https://opengraph.githubassets.com/1/balajz/meine' },
+            'pgxcli': { link: 'https://github.com/balajz/pgxcli', imageUrl: 'https://res.cloudinary.com/dsdupsv2g/image/upload/q_auto/f_auto/v1779504361/home_lrj6gh.png' },
             'Type Challenges': 'https://github.com/type-challenges/type-challenges',
             'Vue': 'https://github.com/vuejs/core',
             'Nuxt': 'https://github.com/nuxt/nuxt',

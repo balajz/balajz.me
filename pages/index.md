@@ -1,23 +1,16 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
+title: Balaji J
+description: Balaji J's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
 
-Hey! I'm Anthony Fu, a fanatical open sourceror and design engineer.
+Hey! I'm Balaji J, a student, backend and system engineer.
 
-Working at {Vercel} / {Nuxt}<br>
-Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
-Core team of {Vue} {Nuxt} {Vite}<br>
-Maintaining {Shiki} {Twoslash} {ESLint Stylistic}
+Creator of {meine} {pgxcli}<br>
+Maintaining {pgxcli}
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
-
-I write [blog posts](/posts) about open source, coding, etc.
-From time to time, I make some generative-art, interactivity experiments on [100.antfu.me](https://100.antfu.me/).
-
-Outside of programming, I enjoy traveling. In case you are interested, here are the [hardware/software I use](/use).
 
 <div flex-auto />
 
@@ -26,15 +19,13 @@ Outside of programming, I enjoy traveling. In case you are interested, here are 
 Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://bsky.app/profile/antfu.me" target="_blank"><span op75 i-ri-bluesky-fill /> Bluesky</a>
-  <a href="https://chat.antfu.me" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
- <a href="https://x.com/antfu7" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://x.com/antfuzh" target="_blank"><span op75 i-ri-twitter-x-fill /> 中文推</a>
-  <a href="https://x.com/antfujp" target="_blank"><span op75 i-ri-twitter-x-fill /> 日本語</a>
+  <a href="https://github.com/balajz" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://www.linkedin.com/in/balaji01-4d" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
+  <a href="https://leetcode.com/u/balajix/" target="_blank"><span op75 i-simple-icons-leetcode /> LeetCode</a>
+  <a href="https://pypi.org/user/balaji01-4D/" target="_blank"><span op75 i-simple-icons-pypi /> PyPI</a>
 </p>
 
-Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
+Or mail me at <a href="mailto:balaji.jothi.in@gmail.com" class="font-mono">balaji.jothi.in@gmail.com</a>
 
 <!--
 <span op50>(</span> Inactive on <span flex="~ inline gap-2 wrap">

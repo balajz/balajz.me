@@ -52,41 +52,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/bookmarks': RouteRecordInfo<
-      '/bookmarks',
-      '/bookmarks',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/chat': RouteRecordInfo<
-      '/chat',
-      '/chat',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/chat-zh': RouteRecordInfo<
-      '/chat-zh',
-      '/chat-zh',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/demos': RouteRecordInfo<
-      '/demos',
-      '/demos',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/notes': RouteRecordInfo<
-      '/notes',
-      '/notes',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/posts/': RouteRecordInfo<
       '/posts/',
       '/posts',
@@ -101,9 +66,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/use': RouteRecordInfo<
-      '/use',
-      '/use',
+    '/releases': RouteRecordInfo<
+      '/releases',
+      '/releases',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -139,36 +104,6 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/bookmarks.md': {
-      routes:
-        | '/bookmarks'
-      views:
-        | never
-    }
-    'pages/chat.md': {
-      routes:
-        | '/chat'
-      views:
-        | never
-    }
-    'pages/chat-zh.md': {
-      routes:
-        | '/chat-zh'
-      views:
-        | never
-    }
-    'pages/demos.md': {
-      routes:
-        | '/demos'
-      views:
-        | never
-    }
-    'pages/notes.md': {
-      routes:
-        | '/notes'
-      views:
-        | never
-    }
     'pages/posts/index.md': {
       routes:
         | '/posts/'
@@ -181,9 +116,9 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/use.md': {
+    'pages/releases.md': {
       routes:
-        | '/use'
+        | '/releases'
       views:
         | never
     }

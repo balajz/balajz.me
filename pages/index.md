@@ -25,7 +25,7 @@ Find me on
   <a href="https://pypi.org/user/balaji01-4D/" target="_blank"><span op75 i-simple-icons-pypi /> PyPI</a>
 </p>
 
-Or mail me at <a href="mailto:balaji.jothi.in@gmail.com" class="font-mono">balaji.jothi.in@gmail.com</a>
+Or mail me at <a href="mailto:thebalajij@proton.me" class="font-mono">thebalajij@proton.me</a>
 
 <!--
 <span op50>(</span> Inactive on <span flex="~ inline gap-2 wrap">

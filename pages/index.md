@@ -1,7 +1,7 @@
 ---
 title: Balaji J
 description: Balaji J's Portfolio
-image: https://antfu.me/og.png
+image: https://balajz.vercel.app/og.png
 art: random
 ---
 
@@ -11,6 +11,8 @@ Creator of {meine} {pgxcli}<br>
 Maintaining {pgxcli}
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
+
+Outside of programming, I enjoy creating videos and traveling. I occasionally share my thoughts and projects on [YouTube](https://youtube.com/@loveandcode). If you're curious, here's a look at the [hardware and software I use](/use).
 
 <div flex-auto />
 

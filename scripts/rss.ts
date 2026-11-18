@@ -6,10 +6,10 @@ import fs from 'fs-extra'
 import matter from 'gray-matter'
 import MarkdownIt from 'markdown-it'
 
-const DOMAIN = 'https://antfu.me'
+const DOMAIN = 'https://balajz.vercel.app'
 const AUTHOR = {
   name: 'Balaji J',
-  email: 'hi@antfu.me',
+  email: 'thebalajij@proton.me',
   link: DOMAIN,
 }
 const markdown = MarkdownIt({
@@ -28,13 +28,13 @@ async function buildBlogRSS() {
   const options = {
     title: 'Balaji J',
     description: 'Balaji J\'s Blog',
-    id: 'https://antfu.me/',
-    link: 'https://antfu.me/',
+    id: `${DOMAIN}/`,
+    link: `${DOMAIN}/`,
     copyright: '',
     feedLinks: {
-      json: 'https://antfu.me/feed.json',
-      atom: 'https://antfu.me/feed.atom',
-      rss: 'https://antfu.me/feed.xml',
+      json: `${DOMAIN}/feed.json`,
+      atom: `${DOMAIN}/feed.atom`,
+      rss: `${DOMAIN}/feed.xml`,
     },
   }
   const posts: any[] = (
@@ -71,8 +71,8 @@ async function buildBlogRSS() {
 
 async function writeFeed(name: string, options: FeedOptions, items: Item[]) {
   options.author = AUTHOR
-  options.image = 'https://antfu.me/avatar.png'
-  options.favicon = 'https://antfu.me/logo.png'
+  options.image = `${DOMAIN}/avatar.png`
+  options.favicon = `${DOMAIN}/logo.png`
 
   const feed = new Feed(options)
 

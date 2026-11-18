@@ -53,9 +53,6 @@ const { y: scroll } = useWindowScroll()
         <a href="https://github.com/balajz" target="_blank" title="GitHub">
           <div i-uil-github-alt />
         </a>
-        <!-- <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
-          <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
-        </a> -->
         <ToggleTheme />
       </div>
     </nav>

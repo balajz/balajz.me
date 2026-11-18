@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npm run build-only && npm run build-post",
     "build-only": "vite-ssg build",
-    "build-post": "tsx ./scripts/copy-fonts.ts && tsx ./scripts/rss.ts",
+    "build-post": "tsx ./scripts/copy-fonts.ts",
     "dev": "vite --port 3333 --open",
     "preview": "vite preview",
     "redirects": "tsx scripts/redirects.ts",
@@ -57,8 +57,6 @@
     "diacritics": "catalog:dev",
     "eslint": "catalog:dev",
     "eslint-plugin-format": "catalog:dev",
-    "fast-glob": "catalog:dev",
-    "feed": "catalog:dev",
     "fs-extra": "catalog:dev",
     "gray-matter": "catalog:build",
     "lint-staged": "catalog:dev",

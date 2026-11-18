@@ -44,7 +44,13 @@ const { y: scroll } = useWindowScroll()
         <!-- <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
         </RouterLink> -->
-        <a href="https://github.com/balajz" target="_blank" title="GitHub" class="lt-md:hidden">
+        <RouterLink to="/youtube" title="YouTube">
+          <div i-simple-icons-youtube />
+        </RouterLink>
+        <a href="https://x.com/thebalajij" target="_blank" title="X">
+          <div i-ri-twitter-x-line />
+        </a>
+        <a href="https://github.com/balajz" target="_blank" title="GitHub">
           <div i-uil-github-alt />
         </a>
         <!-- <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">

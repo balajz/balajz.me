@@ -73,6 +73,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/youtube': RouteRecordInfo<
+      '/youtube',
+      '/youtube',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
   }
 
   /**
@@ -119,6 +126,12 @@ declare module 'vue-router/auto-routes' {
     'pages/releases.md': {
       routes:
         | '/releases'
+      views:
+        | never
+    }
+    'pages/youtube.md': {
+      routes:
+        | '/youtube'
       views:
         | never
     }

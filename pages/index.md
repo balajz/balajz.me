@@ -20,6 +20,8 @@ Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/balajz" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://youtube.com/@loveandcode" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+  <a href="https://x.com/thebalajij" target="_blank"><span op75 i-ri-twitter-x-line /> X</a>
   <a href="https://www.linkedin.com/in/balaji01-4d" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
   <a href="https://leetcode.com/u/balajix/" target="_blank"><span op75 i-simple-icons-leetcode /> LeetCode</a>
   <a href="https://pypi.org/user/balaji01-4D/" target="_blank"><span op75 i-simple-icons-pypi /> PyPI</a>

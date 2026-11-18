@@ -5,7 +5,7 @@ image: https://antfu.me/og.png
 art: random
 ---
 
-Hey! I'm Balaji J, a student, backend and system engineer.
+Hey! I'm Balaji J, an AI & Data Science student, Backend, Cloud, and AI Engineer.
 
 Creator of {meine} {pgxcli}<br>
 Maintaining {pgxcli}

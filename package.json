@@ -11,7 +11,6 @@
     "redirects": "tsx scripts/redirects.ts",
     "lint": "eslint .",
     "compress": "tsx scripts/img-compress-staged.ts",
-    "photos": "tsx scripts/photos-manage.ts",
     "prepare": "simple-git-hooks"
   },
   "dependencies": {
@@ -53,14 +52,11 @@
     "@types/nprogress": "catalog:types",
     "@types/prompts": "catalog:types",
     "@unocss/preset-web-fonts": "catalog:build",
-    "@unpic/placeholder": "catalog:frontend",
     "@vitejs/plugin-vue": "catalog:build",
     "ansis": "catalog:dev",
-    "blurhash": "catalog:dev",
     "diacritics": "catalog:dev",
     "eslint": "catalog:dev",
     "eslint-plugin-format": "catalog:dev",
-    "exifreader": "catalog:dev",
     "fast-glob": "catalog:dev",
     "feed": "catalog:dev",
     "fs-extra": "catalog:dev",

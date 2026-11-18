@@ -1,4 +1,7 @@
 catalogMode: prefer
+minimumReleaseAgeExclude:
+  - '@iconify/json@2.2.478'
+  - unplugin-vue-markdown@32.0.0
 shellEmulator: true
 trustPolicy: no-downgrade
 
@@ -35,8 +38,6 @@ catalogs:
     '@octokit/rest': ^22.0.1
     ansis: ^4.3.0
     blurhash: ^2.0.5
-    cross-env: ^10.1.0
-    degit: ^3.0.0
     diacritics: ^1.3.0
     eslint: ^10.4.0
     eslint-plugin-format: ^2.0.1
@@ -48,7 +49,6 @@ catalogs:
     pathe: ^2.0.3
     pnpm: ^11.2.2
     prompts: ^2.4.2
-    rimraf: ^6.1.3
     sharp: 0.32.6
     simple-git: ^3.36.0
     simple-git-hooks: ^2.13.1
@@ -78,7 +78,6 @@ catalogs:
   types:
     '@types/d3-hierarchy': ^3.1.7
     '@types/d3-shape': ^3.1.8
-    '@types/degit': ^2.8.6
     '@types/diacritics': ^1.3.3
     '@types/fs-extra': ^11.0.4
     '@types/markdown-it': ^14.1.2
@@ -100,7 +99,3 @@ allowBuilds:
   exifreader: true
   sharp: true
   simple-git-hooks: true
-
-minimumReleaseAgeExclude:
-  - '@iconify/json@2.2.478'
-  - unplugin-vue-markdown@32.0.0

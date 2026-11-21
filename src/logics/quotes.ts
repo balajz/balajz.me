@@ -15,10 +15,6 @@ export const quotes: Quote[] = [
   {
     text: 'Big dreams require big sacrifices, never settle for average.',
   },
-  {
-    text: 'The impediment to action advances action. What stands in the way becomes the way.',
-    author: 'Marcus Aurelius',
-  },
 ]
 
 export function randomQuote(): Quote {

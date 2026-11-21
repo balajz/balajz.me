@@ -16,6 +16,8 @@ Outside of programming, I enjoy creating videos and traveling. I occasionally sh
 
 You can also find my interests through my [favorite movies and characters](/interests).
 
+<Quote />
+
 <div flex-auto />
 
 ---

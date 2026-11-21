@@ -215,6 +215,27 @@ html:not(.dark) [img-dark] {
   transition: none !important;
 }
 
+/* Interests gallery */
+.interests .prose {
+  max-width: min(125rem, calc(100vw - 3.5rem));
+}
+
+@media (min-width: 1024px) {
+  .interests .prose {
+    padding-left: 14rem;
+  }
+
+  .interests .table-of-contents {
+    top: 9rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .interests .prose {
+    padding-left: 21rem;
+  }
+}
+
 /* Transitions */
 .fade-enter-active,
 .fade-leave-active {

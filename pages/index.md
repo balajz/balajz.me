@@ -14,6 +14,8 @@ Dreaming up cool ideas and making them come true is where my passion lies. I am 
 
 Outside of programming, I enjoy creating videos and traveling. I occasionally share my thoughts and projects on [YouTube](https://youtube.com/@loveandcode). If you're curious, here's a look at the [hardware and software I use](/use).
 
+You can also find my interests through my [favorite movies and characters](/interests).
+
 <div flex-auto />
 
 ---
